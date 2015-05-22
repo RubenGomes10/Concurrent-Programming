@@ -29,7 +29,7 @@ public class FutureHolder<T> implements IFutureHolder<T> {
                     lock.wait(timeout);
                 } catch (InterruptedException e) {
                     if(isValueAvailable()){
-                        //Thread.currentThread().interrupt();
+                        Thread.currentThread().interrupt();
                         return value;
                     }
                    throw e;

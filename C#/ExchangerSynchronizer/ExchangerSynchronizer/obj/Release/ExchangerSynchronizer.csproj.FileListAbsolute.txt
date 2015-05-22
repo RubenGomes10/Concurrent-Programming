@@ -1,0 +1,6 @@
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Release\ExchangerSynchronizer.exe.config
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Release\ExchangerSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Release\ExchangerSynchronizer.pdb
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Release\ExchangerSynchronizer.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Release\ExchangerSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Release\ExchangerSynchronizer.pdb

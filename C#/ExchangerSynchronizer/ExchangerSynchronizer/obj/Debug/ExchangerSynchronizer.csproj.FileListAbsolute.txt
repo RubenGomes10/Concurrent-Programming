@@ -1,0 +1,5 @@
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Debug\ExchangerSynchronizer.exe.config
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Debug\ExchangerSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Debug\ExchangerSynchronizer.pdb
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.pdb
