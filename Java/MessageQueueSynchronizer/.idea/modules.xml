@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MessageQueueSynchronizer.iml" filepath="$PROJECT_DIR$/MessageQueueSynchronizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-synchronizer.iml" filepath="$PROJECT_DIR$/message-queue-synchronizer.iml" />
     </modules>
   </component>
 </project>
