@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExchangerSynchronizer.iml" filepath="$PROJECT_DIR$/ExchangerSynchronizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchanger-synchronizer.iml" filepath="$PROJECT_DIR$/exchanger-synchronizer.iml" />
     </modules>
   </component>
 </project>

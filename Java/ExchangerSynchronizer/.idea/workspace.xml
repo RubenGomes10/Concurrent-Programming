@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def7b016-dbcb-476b-ad51-54c2f638be6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Exchanger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IExchanger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/src/main/java/IMessageQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/src/main/java/MessageQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestExchanger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestExchangerThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/src/test/java/TestMessageQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/src/test/java/TestMessageQueueThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FutureHolderSynchronizer/src/main/java/FutureHolder.java" afterPath="$PROJECT_DIR$/../FutureHolderSynchronizer/src/main/java/FutureHolder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FutureHolderSynchronizer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FutureHolderSynchronizer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MessageQueueSynchronizer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MessageQueueSynchronizer/.idea/workspace.xml" />
     </list>
     <ignored path="ExchangerSynchronizer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +45,7 @@
       <file leaf-file-name="IExchanger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/IExchanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
               <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
@@ -75,34 +65,9 @@
       <file leaf-file-name="TestExchanger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestExchanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26631853" vertical-offset="1411" max-vertical-offset="1989">
-              <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
-              <folding>
-                <element signature="e#241#249#0" expanded="true" />
-                <element signature="e#333#341#0" expanded="true" />
-                <element signature="e#405#413#0" expanded="true" />
-                <element signature="e#675#683#0" expanded="true" />
-                <element signature="e#767#775#0" expanded="true" />
-                <element signature="e#839#847#0" expanded="true" />
-                <element signature="e#911#919#0" expanded="true" />
-                <element signature="e#983#991#0" expanded="true" />
-                <element signature="e#1351#1359#0" expanded="true" />
-                <element signature="e#1443#1451#0" expanded="true" />
-                <element signature="e#1512#1520#0" expanded="true" />
-                <element signature="e#1584#1592#0" expanded="true" />
-                <element signature="e#1900#1908#0" expanded="true" />
-                <element signature="e#1992#2000#0" expanded="true" />
-                <element signature="e#2064#2072#0" expanded="true" />
-                <element signature="e#2136#2144#0" expanded="true" />
-                <element signature="e#2457#2465#0" expanded="true" />
-                <element signature="e#2549#2557#0" expanded="true" />
-                <element signature="e#2621#2629#0" expanded="true" />
-                <element signature="e#2693#2701#0" expanded="true" />
-                <element signature="e#3043#3051#0" expanded="true" />
-                <element signature="e#3135#3143#0" expanded="true" />
-                <element signature="e#3207#3215#0" expanded="true" />
-                <element signature="e#3279#3287#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="1.4960835" vertical-offset="1161" max-vertical-offset="1989">
+              <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,17 +138,13 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ExchangerSynchronizer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -231,36 +192,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExchangerSynchronizer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExchangerSynchronizer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,30 +215,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.TestExchanger.test_interrupted_rearm_exchange_message">
-    <configuration default="false" name="TestExchanger.test_multiple_exchange_Message" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="ExchangerSynchronizer" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestExchanger" />
-      <option name="METHOD_NAME" value="test_multiple_exchange_Message" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestExchanger">
     <configuration default="false" name="TestExchanger.test_zero_timeout_exchange_message" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ExchangerSynchronizer" />
@@ -382,6 +294,29 @@
       <option name="MAIN_CLASS_NAME" value="TestExchanger" />
       <option name="METHOD_NAME" value="test_interrupted_rearm_exchange_message" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestExchanger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="exchanger-synchronizer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestExchanger" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -691,19 +626,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_multiple_exchange_Message" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_zero_timeout_exchange_message" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestExchanger.timeout_exchange_message" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_exchange_message" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_rearm_exchange_message" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_zero_timeout_exchange_message" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestExchanger.timeout_exchange_message" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_exchange_message" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_rearm_exchange_message" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestExchanger" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_rearm_exchange_message" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_exchange_message" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestExchanger.timeout_exchange_message" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_zero_timeout_exchange_message" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_multiple_exchange_Message" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestExchanger" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_rearm_exchange_message" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_interrupted_exchange_message" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestExchanger.timeout_exchange_message" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestExchanger.test_zero_timeout_exchange_message" />
       </list>
     </recent_temporary>
   </component>
@@ -716,11 +651,12 @@
       <updated>1432218690122</updated>
       <workItem from="1432218705236" duration="6904000" />
       <workItem from="1432293822328" duration="4573000" />
+      <workItem from="1432378519896" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11477000" />
+    <option name="totallyTimeSpent" value="11566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -798,6 +734,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Exchanger.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1088">
+          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestExchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestExchangerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="663">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IExchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1088">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
@@ -808,32 +784,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#241#249#0" expanded="true" />
-            <element signature="e#333#341#0" expanded="true" />
-            <element signature="e#405#413#0" expanded="true" />
-            <element signature="e#675#683#0" expanded="true" />
-            <element signature="e#767#775#0" expanded="true" />
-            <element signature="e#839#847#0" expanded="true" />
-            <element signature="e#911#919#0" expanded="true" />
-            <element signature="e#983#991#0" expanded="true" />
-            <element signature="e#1351#1359#0" expanded="true" />
-            <element signature="e#1443#1451#0" expanded="true" />
-            <element signature="e#1512#1520#0" expanded="true" />
-            <element signature="e#1584#1592#0" expanded="true" />
-            <element signature="e#1900#1908#0" expanded="true" />
-            <element signature="e#1992#2000#0" expanded="true" />
-            <element signature="e#2064#2072#0" expanded="true" />
-            <element signature="e#2136#2144#0" expanded="true" />
-            <element signature="e#2457#2465#0" expanded="true" />
-            <element signature="e#2549#2557#0" expanded="true" />
-            <element signature="e#2621#2629#0" expanded="true" />
-            <element signature="e#2693#2701#0" expanded="true" />
-            <element signature="e#3043#3051#0" expanded="true" />
-            <element signature="e#3135#3143#0" expanded="true" />
-            <element signature="e#3207#3215#0" expanded="true" />
-            <element signature="e#3279#3287#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -879,34 +830,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestExchanger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26631853" vertical-offset="1411" max-vertical-offset="1989">
-          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
-          <folding>
-            <element signature="e#241#249#0" expanded="true" />
-            <element signature="e#333#341#0" expanded="true" />
-            <element signature="e#405#413#0" expanded="true" />
-            <element signature="e#675#683#0" expanded="true" />
-            <element signature="e#767#775#0" expanded="true" />
-            <element signature="e#839#847#0" expanded="true" />
-            <element signature="e#911#919#0" expanded="true" />
-            <element signature="e#983#991#0" expanded="true" />
-            <element signature="e#1351#1359#0" expanded="true" />
-            <element signature="e#1443#1451#0" expanded="true" />
-            <element signature="e#1512#1520#0" expanded="true" />
-            <element signature="e#1584#1592#0" expanded="true" />
-            <element signature="e#1900#1908#0" expanded="true" />
-            <element signature="e#1992#2000#0" expanded="true" />
-            <element signature="e#2064#2072#0" expanded="true" />
-            <element signature="e#2136#2144#0" expanded="true" />
-            <element signature="e#2457#2465#0" expanded="true" />
-            <element signature="e#2549#2557#0" expanded="true" />
-            <element signature="e#2621#2629#0" expanded="true" />
-            <element signature="e#2693#2701#0" expanded="true" />
-            <element signature="e#3043#3051#0" expanded="true" />
-            <element signature="e#3135#3143#0" expanded="true" />
-            <element signature="e#3207#3215#0" expanded="true" />
-            <element signature="e#3279#3287#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="1.4960835" vertical-offset="1161" max-vertical-offset="1989">
+          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>

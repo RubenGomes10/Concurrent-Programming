@@ -1,0 +1,6 @@
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\bin\Debug\RendezvousChannelSynchronizer.exe.config
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\obj\Debug\RendezvousChannelSynchronizer.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\bin\Debug\RendezvousChannelSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\bin\Debug\RendezvousChannelSynchronizer.pdb
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\obj\Debug\RendezvousChannelSynchronizer.exe
+C:\Users\Rúben Gomes\Desktop\RendezvousChannelSynchronizer\RendezvousChannelSynchronizer\obj\Debug\RendezvousChannelSynchronizer.pdb

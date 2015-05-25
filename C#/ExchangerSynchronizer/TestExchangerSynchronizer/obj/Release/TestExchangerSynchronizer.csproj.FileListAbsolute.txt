@@ -1,7 +1,0 @@
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\bin\Release\TestExchangerSynchronizer.dll
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\bin\Release\TestExchangerSynchronizer.pdb
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\bin\Release\ExchangerSynchronizer.exe
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\bin\Release\ExchangerSynchronizer.pdb
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\obj\Release\TestExchangerSynchronizer.csprojResolveAssemblyReference.cache
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\obj\Release\TestExchangerSynchronizer.dll
-C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\TestExchangerSynchronizer\obj\Release\TestExchangerSynchronizer.pdb

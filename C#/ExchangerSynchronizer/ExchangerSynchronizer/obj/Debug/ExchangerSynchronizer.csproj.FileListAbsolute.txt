@@ -3,3 +3,6 @@ C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\De
 C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\bin\Debug\ExchangerSynchronizer.pdb
 C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.exe
 C:\Users\Rúben Gomes\Desktop\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.pdb
+C:\Users\Rúben Gomes\Documents\UNIVERSIDADE\ISEL\6_Semestre\Disciplinas\PC\Avaliação Prática\Concurrent-Programming\C#\ExchangerSynchronizer\ExchangerSynchronizer\bin\Debug\ExchangerSynchronizer.exe.config
+C:\Users\Rúben Gomes\Documents\UNIVERSIDADE\ISEL\6_Semestre\Disciplinas\PC\Avaliação Prática\Concurrent-Programming\C#\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.exe
+C:\Users\Rúben Gomes\Documents\UNIVERSIDADE\ISEL\6_Semestre\Disciplinas\PC\Avaliação Prática\Concurrent-Programming\C#\ExchangerSynchronizer\ExchangerSynchronizer\obj\Debug\ExchangerSynchronizer.pdb
