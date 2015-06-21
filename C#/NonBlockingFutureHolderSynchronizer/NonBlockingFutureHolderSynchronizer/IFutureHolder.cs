@@ -9,7 +9,7 @@ namespace NonBlockingFutureHolderSynchronizer
     interface IFutureHolder<T>
     {
         void SetValue(T value);
-        T GetValue(long timeout);
+        T GetValue(int timeout);
         bool IsValueAvailable();
     }
 }
