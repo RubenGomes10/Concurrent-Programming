@@ -21,8 +21,10 @@ public class DataDistributor<D> {
 
     public void Put(List<D> data){
         synchronized(lock){
-            while(data.size() > 0){
-                D value = data.remove(0);
+            int length = data.size();
+            int i = -1;
+            while( ++i < length){
+                D value = data.get(i);
                 dataQueue.add(value);
             }
             lock.notifyAll();
@@ -31,7 +33,7 @@ public class DataDistributor<D> {
     }
 
 
-    public List<D> Take(){
+    public List<D> Take() throws InterruptedException {
         synchronized (lock){
             int id = (int)Thread.currentThread().getId();
             consumers.addFirst(id);
@@ -41,6 +43,7 @@ public class DataDistributor<D> {
                         lock.wait();
                     }catch (InterruptedException e){// if interrupted abandon process remove thread from consumers queue
                         consumers.remove(id);
+                        throw e;
                     }
                 }while (dataQueue.size() == 0);
             }
